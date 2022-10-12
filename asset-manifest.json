@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.0adec932.js",
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.dac82ef5.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.840698c2.js",
+    "static/media/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg": "/goit-react-hw-02-phonebook/static/media/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.116f36d5d3cb4801ef10.jpg",
     "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css.map",
-    "main.0adec932.js.map": "/goit-react-hw-02-phonebook/static/js/main.0adec932.js.map"
+    "main.dac82ef5.css.map": "/goit-react-hw-02-phonebook/static/css/main.dac82ef5.css.map",
+    "main.840698c2.js.map": "/goit-react-hw-02-phonebook/static/js/main.840698c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.0adec932.js"
+    "static/css/main.dac82ef5.css",
+    "static/js/main.840698c2.js"
   ]
 }
